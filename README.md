@@ -1,1 +1,1 @@
-# Documentación dirigida principalmente a estudiantes de la ULA y de la UNET en sus diferentes rama con el fin de hacer accesible material de apoyo para futuros estudiantes de las casas de estudio
+# Documentación dirigida principalmente a estudiantes de la ULA y de la UNET en sus diferentes ramas de formación con el fin de hacer accesible material de apoyo para futuros estudiantes de las casas de estudio
